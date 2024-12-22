@@ -1,0 +1,52 @@
+[
+    {
+      "projectName": "design-system",
+      "type": "Public",
+      "technologyUsed": "React",
+      "fileSize": "7320 KB",
+      "updated": "1 day ago"
+    },
+    {
+      "projectName": "codeant-ci-app",
+      "type": "Private",
+      "technologyUsed": "Javascript",
+      "fileSize": "5871 KB",
+      "updated": "2 days ago"
+    },
+    {
+      "projectName": "analytics-dashboard",
+      "type": "Private",
+      "technologyUsed": "Python",
+      "fileSize": "4521 KB",
+      "updated": "5 days ago"
+    },
+    {
+      "projectName": "mobile-app",
+      "type": "Public",
+      "technologyUsed": "Swift",
+      "fileSize": "3096 KB",
+      "updated": "3 days ago"
+    },
+    {
+      "projectName": "e-commerce-platform",
+      "type": "Private",
+      "technologyUsed": "Java",
+      "fileSize": "6210 KB",
+      "updated": "6 days ago"
+    },
+    {
+      "projectName": "blog-website",
+      "type": "Public",
+      "technologyUsed": "HTML/CSS",
+      "fileSize": "1876 KB",
+      "updated": "4 days ago"
+    },
+    {
+      "projectName": "social-network",
+      "type": "Private",
+      "technologyUsed": "PHP",
+      "fileSize": "5432 KB",
+      "updated": "7 days ago"
+    }
+  ]
+  
